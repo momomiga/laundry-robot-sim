@@ -1,0 +1,37 @@
+{
+  "title": "ロボット構成と参考価格",
+  "date": "2026-10-30",
+  "usd_jpy": 157.54,
+  "usd_jpy_source": "https://www.murc-kawasesouba.jp/fx/past/index.php?id=261030 (2026-10-30 USD TTS 158.54 / TTB 156.54, TTM = (TTS+TTB)/2)",
+  "parts": [
+    {
+      "label": "台車（メカナム 4 輪、41 cm 角、積載 15 kg）",
+      "product": "Wheeltec R5 Series Robot Mecanum Wheel Chassis (13-wire Hall encoder)",
+      "price_usd": 454.95,
+      "url": "https://openelab.com/products/wheeltec-r5-series-robot-mecanum",
+      "note": "kit only: no motor driver, no battery; page says duties included"
+    },
+    {
+      "label": "昇降軸（電動コラム、ストローク 648 mm）",
+      "product": "Progressive Automations LG-02 (LG-02-3RM-25-180-HS-24V)",
+      "price_usd": 115.99,
+      "url": "https://www.progressiveautomations.com/products/lg-02",
+      "note": "control box not included (FLTCON-2-24VDC is $146.99)"
+    },
+    {
+      "label": "6 自由度アーム PiPER",
+      "product": "AgileX PiPER",
+      "price_usd": 1999.00,
+      "url": "https://global.agilex.ai/products/piper",
+      "note": "arm body; the gripper is sold separately. Price from the store's product data (the page shows none). Japan: 398,000 JPY excl. tax at launch (2024-11-20, https://www.dreamnews.jp/press/0000308998/)"
+    },
+    {
+      "label": "RGB-D カメラ（RealSense D435i）",
+      "product": "RealSense Depth Camera D435i",
+      "price_usd": 399.00,
+      "url": "https://store.realsenseai.com/buy-realsense-depth-camera-d435i.html",
+      "note": "store adds a tariff surcharge from 2026-02-03 (amount not shown)"
+    }
+  ],
+  "footnote": "2026 年 10 月 30 日時点の販売ページの表示価格（1 ドル = 157.54 円で換算）。グリッパ・駆動回路・電池・昇降の制御箱・計算機は含まない。税・送料の扱いは店ごとに異なる。製品名と出典は README に記載。"
+}
