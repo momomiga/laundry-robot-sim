@@ -18,7 +18,7 @@ AI 部分は自前ホストの VLM（ollama 上の `qwen3-vl:8b-instruct`）で�
 
 ## 動画
 
-YouTube: TODO
+YouTube: https://youtu.be/CP9zqobL3vo （157.6 秒。シミュレーション時刻の等倍で、早送りなし。VLM の推論中はシミュレーションを止めて検出結果のカードを表示）
 
 ## 構成
 
